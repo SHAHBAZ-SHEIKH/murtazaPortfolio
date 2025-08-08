@@ -164,7 +164,7 @@ export default function HomeSection() {
             <div className="absolute -top-2 -right-2 w-6 h-6 bg-green-400 rounded-full border-4 border-slate-900 animate-pulse"></div>
           </div>
 
-          <h2 className="text-2xl font-bold mb-2">Shahbaz Ahmed</h2>
+          <h2 className="text-2xl font-bold mb-2">Murtaza Ahmed</h2>
           <p className="text-slate-400 mb-6">Software Engineer</p>
 
           <Button

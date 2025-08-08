@@ -82,7 +82,7 @@ export default function Sidebar({ activeSection, onSectionChange }: SidebarProps
       {/* Social Links */}
       <div className="mt-auto flex flex-col gap-3">
         <a
-          href="https://github.com/SHAHBAZ-SHEIKH/"
+          href="https://github.com/Murtuza-Ahmed"
           target="_blank"
           rel="noopener noreferrer"
           className="sidebar-item w-10 h-10 rounded-lg bg-slate-700/50 flex items-center justify-center cursor-pointer hover:bg-slate-600/50 transition-all text-slate-400 hover:text-white"
@@ -91,7 +91,7 @@ export default function Sidebar({ activeSection, onSectionChange }: SidebarProps
           <Github size={16} />
         </a>
         <a
-          href="https://www.linkedin.com/in/shabaz-ahmed123/"
+          href="https://www.linkedin.com/me?trk=p_mwlite_profile_self-secondary_nav"
           target="_blank"
           rel="noopener noreferrer"
           className="sidebar-item w-10 h-10 rounded-lg bg-slate-700/50 flex items-center justify-center cursor-pointer hover:bg-slate-600/50 transition-all text-slate-400 hover:text-white"
